@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.semanticTokenColorCustomizations": null,
+    "terminal.integrated.minimumContrastRatio": 7
+}

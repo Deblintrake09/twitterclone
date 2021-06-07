@@ -1,0 +1,4 @@
+Funcionalidades a implementar
+
+-Cuando muestra una respuesta, que muestre arriba el post al que responde (no solo "responde a)"
+- Revisar que cuando se borra un post padre al que se responde o retwittea, que hacer con los comments y retweets
