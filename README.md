@@ -1,5 +1,5 @@
 # twitterclone
-Un clon de twitter realizado como parte del curso de Udemy de Reece Keney en Udemy.
+A twitter clone project done in nodeJs.
 
 
 Tecnologías utilizadas: NodeJs, MongoDB, Express, Pug, CSS.
